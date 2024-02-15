@@ -1,0 +1,10 @@
+{
+    "541331abd5509201": {},
+    "7846481e870df3f9": {
+        "user": "${TURBOSMSDB-MONGO-HOST-USERNAME}",
+        "password": "${TURBOSMSDB-MONGO-HOST-PASSWORD}"
+    },
+    "3b1a3b3b87ec1957": {},
+    "ad2448e493adf1fc": {},
+    "0d79582133040d98": {}
+}
